@@ -1,0 +1,6 @@
+Auteilung von Interrior in 4 Schnittfreie Einzelbilder:
+
+Bild1 bis 5920
+Bild2 bis 5920 + 4.992 = 10.912
+Bild3 bis 10.912 + 5248 = 16.160
+Bild4 bis 16.160 + 2880 = 19.040
