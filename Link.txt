@@ -1,3 +1,3 @@
-https://play.workadventu.re/_/global/maxgrrs.github.io/tbox/maps/tbox_map.json
+https://play.workadventu.re/_/T-Box_/maxgrrs.github.io/tbox/maps/tbox_map.json
 
-https://virtual-office.telekom.de/_/global/maxgrrs.github.io/tbox/maps/tbox_map.json
+https://virtual-office.telekom.de/_/T-Box_/maxgrrs.github.io/tbox/maps/tbox_map.json
