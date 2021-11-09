@@ -76526,7 +76526,8 @@
   <properties>
    <property name="jitsiRoom" value="Christmas_Talk"/>
    <property name="jitsiTrigger" value="onaction"/>
-   <property name="jitsiTriggerMessage" value="Press Space To Enter The Chrsitmas Talk Meeting"/>
+   <property name="jitsiTriggerMessage" value="Press Space To Enter The Christmas Talk Meeting"/>
+   <property name="webexSpace" value="Y2lzY29zcGFyazovL3VzL1JPT00vZmZjZjVmYjAtNDEzNy0xMWVjLTlmNTctNjVmYTczY2Q3ZWU1"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -76645,6 +76646,7 @@
    <property name="jitsiRoom" value="Room1"/>
    <property name="jitsiTrigger" value="onaction"/>
    <property name="jitsiTriggerMessage" value="Press Space To Enter The Meeting of Room1"/>
+   <property name="webexSpace" value="Y2lzY29zcGFyazovL3VzL1JPT00vNmU5ZDMzMTAtYTRjNS0xMWVhLThiNjQtNWY0OThmZmYyZjcw"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
